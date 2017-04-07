@@ -69,7 +69,7 @@ If you are *not* using a node version manager like [nvm](https://github.com/crea
         -d, --debug                  launch the app in lldb after installation
         -i, --id <device_id>         the id of the device to connect to
         -c, --detect                 only detect if the device is connected
-        -b, --bundle <bundle.app>    the path to the app bundle to be installed
+        -b, --bundle <待部署app包路径> the path to the app bundle to be installed
         -a, --args <args>            command line arguments to pass to the app when launching it
         -t, --timeout <timeout>      number of seconds to wait for a device to be connected
         -u, --unbuffered             don't buffer stdout
